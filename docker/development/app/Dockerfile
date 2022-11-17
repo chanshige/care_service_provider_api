@@ -15,7 +15,7 @@ RUN apk upgrade --update \
     libxml2-dev \
     libxslt-dev \
     postgresql-dev \
-    && apk add --no-cache \
+    && apk --no-cache add \
     libpq \
     libxml2 \
     libxslt \
