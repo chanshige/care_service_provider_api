@@ -1,1 +1,5 @@
 .idea
+!www/log
+www/log
+!www/tmp
+www/tmp
